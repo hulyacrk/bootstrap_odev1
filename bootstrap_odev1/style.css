@@ -1,0 +1,18 @@
+body{
+    background-color: #E9ECEF !important;
+}
+.text-red{
+    color: red;
+}
+.text-yellow{
+    color: rgb(214, 161, 93);
+}
+.text-purple{
+    color: purple;
+}
+.card img{
+    height: 300px;
+}
+.card, .card-body{
+    background-color: #E9ECEF;
+}
